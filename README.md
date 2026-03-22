@@ -5,7 +5,8 @@ This repository contains a functional research prototype for **GSoC 2026 Issue #
 The goal is to transform complex, nested CSG hierarchies into optimized, watertight boundary representations (B-Reps) by extracting the exterior "skin" of the model.
 
 ##  Demonstration
-![Prototype Demo](demo.mp4) 
+[Screen Recording 2026-03-23 at 3.40.21 AM.mp4.zip](https://github.com/user-attachments/files/26169751/Screen.Recording.2026-03-23.at.3.40.21.AM.mp4.zip)
+
 
 ##  Technical Pipeline
 This prototype validates a **Voxel-based Shrink-wrapping** approach to solve the problem of internal geometry pruning.
