@@ -1,0 +1,4 @@
+trimesh
+numpy
+scikit-image
+scipy
